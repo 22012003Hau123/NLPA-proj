@@ -1,0 +1,9 @@
+Bổ sung sau ngày vấn đáp:
+- Bổ sung thêm một ô cửa sổ giao diện người dùng để dễ test từng chức năng.
+- Chức năng đọc tin tức thì có thể giới hạn được số lượng tiêu đề bài viết.
+- Có lệnh dừng chường trình.
+- Các chức năng được hoàn thiện.
+- Theo lời thầy bổ sung ngày vấn đáp thì nếu làm được dừng giữa chừng khi đang đọc phần đọc sách
+ thì 10 điểm những nhóm em vẫn chưa làm được.
+- Nhóm có làm 1 video demo về các chức năng để dễ hình dung được các bước chạy: 
+https://drive.google.com/drive/folders/1UIUmlCQcS2SiIGOLk5ZPAoEm2_FLOXEC?usp=drive_link

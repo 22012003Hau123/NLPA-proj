@@ -1,0 +1,13 @@
+speechrecognition==3.8.1
+pyttsx3==2.90
+pywhatkit==5.1
+wikipedia==1.4.0
+pyjokes==0.6.0
+requests==2.26.0
+fpdf==1.7.2
+PyPDF2==1.26.0
+pdfplumber==0.5.28
+nltk==3.6.5
+bs4==0.0.1
+urllib3==1.26.8
+
